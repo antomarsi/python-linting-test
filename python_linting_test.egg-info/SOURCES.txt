@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+python_linting_test.egg-info/PKG-INFO
+python_linting_test.egg-info/SOURCES.txt
+python_linting_test.egg-info/dependency_links.txt
+python_linting_test.egg-info/requires.txt
+python_linting_test.egg-info/top_level.txt
